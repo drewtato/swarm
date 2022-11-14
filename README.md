@@ -1,3 +1,7 @@
+# Drewtato fork
+
+This repo has changed the keybind for "focus on the REPL" to Meta-` since Alt-r enables the Nvidia Geforce Overlay stats by default.
+
 Swarm
 =====
 

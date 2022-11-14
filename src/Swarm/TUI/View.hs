@@ -645,7 +645,7 @@ helpWidget theSeed mport =
     , ("Meta-h", "hide robots for 2s")
     , ("Meta-w", "focus on the world map")
     , ("Meta-e", "focus on the robot inventory")
-    , ("Meta-r", "focus on the REPL")
+    , ("Meta-`", "focus on the REPL")
     , ("Meta-t", "focus on the info panel")
     ]
 

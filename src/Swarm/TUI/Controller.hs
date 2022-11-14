@@ -282,7 +282,7 @@ handleMainEvent ev = do
     -- special keys that work on all panels
     MetaChar 'w' -> setFocus WorldPanel
     MetaChar 'e' -> setFocus RobotPanel
-    MetaChar 'r' -> setFocus REPLPanel
+    MetaChar '`' -> setFocus REPLPanel
     MetaChar 't' -> setFocus InfoPanel
     -- pass keys on to modal event handler if a modal is open
     VtyEvent vev
